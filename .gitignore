@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Arduino / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+*.elf
+*.hex
+*.bin
+
+# Python (analysis scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Office temp files
+~$*
+*.tmp
+
+# Local secrets / env
+.env

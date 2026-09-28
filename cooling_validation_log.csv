@@ -1,0 +1,20 @@
+clock_time,elapsed_min,phase,temp_c
+7:00AM,0,Pull-down,37.9
+ 7:12AM,12,Pull-down,35.5
+ 7:24AM,24,Pull-down,33.7
+07:36AM,36,Pull-down,27.6
+07:48AM,48,Pull-down,25.5
+08:00AM,60,Pull-down,19.7
+08:12AM,72,Pull-down,17.2
+08:24AM,84,Pull-down,13.5
+08:36AM,96,Pull-down,11.6
+ 8:48AM,108,Pull-down,10.8
+09:00AM,120,Pull-down,8.7
+10:00 AM,180,Hold (8 hr),8.7
+11:00 AM,240,Hold (8 hr),8.7
+12:00 PM,300,Hold (8 hr),8.7
+1:00 PM,360,Hold (8 hr),8.7
+2:00 PM,420,Hold (8 hr),8.7
+3:00 PM,480,Hold (8 hr),8.7
+4:00 PM,540,Hold (8 hr),8.7
+5:00 PM,600,Hold (8 hr),8.7

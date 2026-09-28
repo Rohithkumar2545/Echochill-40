@@ -1,0 +1,22 @@
+category,item,quantity,unit_cost_inr,total_cost_inr,notes
+Structure,Inner food-grade HDPE shell,1,350,350,Milk-contact surface
+Structure,Outer HDPE shell,1,300,300,Structural / weatherproof
+Structure,PUF insulation (25-40 mm),1,250,250,Conductive heat-gain barrier
+Structure,Reflective foil layer,1,60,60,Radiative heat-gain barrier
+Structure,Fin/auger cooling assembly (anodized aluminium),1,400,400,Detachable; food-grade
+Structure,Lid assembly (double gasket + screw mechanism),1,500,500,Includes small PCM slot
+Structure,Base rim (rotating),1,300,300,Tilt-and-roll transport
+Structure,Handles,2,60,120,On cylindrical body only
+Structure,Fasteners/seals/misc,1,150,150,
+Subtotal,Structure,,,2430,
+Electronics,IR temperature sensor (MLX90614-class),1,700,700,Optional smart add-on
+Electronics,MQ-135 gas sensor,1,180,180,VOC proxy - not a bacterial count
+Electronics,Arduino Nano / ESP32,1,500,500,
+Electronics,LED indicator display,1,200,200,Green/Yellow/Red
+Electronics,Battery + IP65 enclosure,1,300,300,
+Subtotal,Electronics (optional),,,1880,
+Labor,Assembly/labor,1,600,600,
+Total,Passive-only unit,,,3030,Structure + labor
+Total,Smart unit (with electronics),,,4910,Structure + electronics + labor
+Measured,Prototype cost as tested,,,5000,Compared with Rs 7000 for a conventional SS can (~28.5% lower)
+Consumable,Gel pack set 22-23 kg (reusable),1,150-200 per kg,3300-4600,One-time capital; swapped daily
